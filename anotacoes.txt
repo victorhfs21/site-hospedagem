@@ -1,0 +1,21 @@
+colocar a imagem de fundo
+dar uma escurecida na imagem de fundo
+
+escrever um titulo paz e tranquilidade
+deixar esse titulo no meio do site
+deixar a fonte do titulo em branco
+
+escrever em baixo do titulo (assista ao video e leia mais)
+deixar com borda branca
+
+fazer um cabeçalho
+escrever (beach)
+deixar em negrito
+mudar a font-family dele
+deixar no canto superior esquerdo
+deixar do lado esquerdo dele um simbolo de lugar
+
+no cabeçalho ainda escrever (home, serviços, galeria, sobre e contato)
+deixar do lado superior direito
+deixar com borda invisivel
+formatar ao passar o mouse ficar com o fundo branco e a letra preta
