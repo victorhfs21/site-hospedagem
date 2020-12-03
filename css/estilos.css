@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 0 auto;
 }
 body{
     background-image: url(../images/fundo.jpg);
@@ -16,13 +16,21 @@ body{
     text-align: center;
     color: white;
     font-family: Open Sans;
-
+    margin-bottom: 1em;
 }
 
-.citacao{
+.container{
     border: 1px solid white;
-    width: 15%;
-    height: 4%;
+    width: 13%;
+    height: 3%;
     text-align: center;
-    padding: 10px 0 0 0;
+    padding: 7px;
+    color: white;
+    display: inline-block;
+}
+
+.container:hover{
+    background: white;
+    color: black;
+    cursor: pointer;
 }
