@@ -1,5 +1,7 @@
 *{
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+    position: relative;
 }
 body{
     background-image: url(../images/fundo.jpg);
@@ -11,26 +13,50 @@ body{
     background: rgba(0,0,0,0.5);
 }
 
-.titulo{
-    font-size: 300%;
-    text-align: center;
-    color: white;
-    font-family: Open Sans;
-    margin-bottom: 1em;
+.logo img{
+    height: 40px;
+    width: 120px;
+    margin: 10px;
 }
 
-.container{
-    border: 1px solid white;
-    width: 13%;
-    height: 3%;
-    text-align: center;
-    padding: 7px;
-    color: white;
+header{
+    display: flex;
+}
+
+.menu ul li{
+    margin: 20px 1px;
+    padding: 5px 20px;
     display: inline-block;
+    left: 160%;
+    color: white;
+    cursor: pointer;
 }
 
-.container:hover{
+.menu ul li:hover{
     background: white;
     color: black;
+}
+
+.titulo{
+    color: white;
+    top: 30%;
+    left: 30%;
+    font-family: 'open sans';
+    font-size: 50px;
+}
+
+.informacao{
+    color: white;
+    top: 30%;
+    left: 40%;
+    display: inline-block;
+    border: 1px solid white;
+    margin-right: 2px;
+    padding: 10px 25px;
     cursor: pointer;
+}
+
+.informacao:hover{
+    background: white;
+    color: black;
 }
