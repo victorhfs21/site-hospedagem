@@ -6,7 +6,8 @@
 body{
     background-image: url(../images/fundo.jpg) fixed;
     background-size: cover;
-    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .conteudo-principal{
