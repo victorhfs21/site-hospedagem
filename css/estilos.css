@@ -4,7 +4,7 @@
     position: relative;
 }
 body{
-    background-image: url(../images/fundo.jpg) fixed;
+    background-image: url(../images/fundo.jpg);
     background-size: cover;
     overflow-y: hidden;
     overflow-x: hidden;
