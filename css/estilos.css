@@ -5,9 +5,9 @@
 }
 body{
     background-image: url(../images/fundo.jpg);
-    background-size: cover;
-    overflow-y: hidden;
-    overflow-x: hidden;
+    background-size: 100vh;
+    background-size: 100vw;
+    overflow: hidden;
 }
 
 .conteudo-principal{
